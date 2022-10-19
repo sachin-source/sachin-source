@@ -20,9 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sachinsouhardh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachinsouhardh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sachin-souhardh-810833177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sachin-souhardh-810833177/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sachin-souhardh-810833177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sachin-souhardh-810833177/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12681984" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12681984" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sachin_yashasvasin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sachin_yashasvasin/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sachin_yashasvasin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sachin_yashasvasin/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
