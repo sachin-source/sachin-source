@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sachinsouhardh" target="blank"><img src="https://img.shields.io/twitter/follow/sachinsouhardh?logo=twitter&style=for-the-badge" alt="sachinsouhardh" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Angular, React, Node, devops, and machine learning.aws,**
+- 🌱 I’m currently learning **Python, Angular, React, Node, devops, AWS, and machine learning.**
 
 - 👨‍💻 All of my projects are available at [https://sachin-portfolio-neo.netlify.app/](https://sachin-portfolio-neo.netlify.app/)
 
