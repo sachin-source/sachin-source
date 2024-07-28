@@ -22,8 +22,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sachin-source&show_icons=true&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-source&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-source&hide=scss&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Top Languages" height="200"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-source&theme=dark&background=22272e&date_format=%5BY%20%5DM%20j&exclude_days=Sun" alt="Streak Stats" height="200"/>
+</p>
+
+---
+
+## Daily-dev Stats
+
+<p align="center">
+    <a href="https://app.daily.dev/sachin_mounesh"><img src="https://api.daily.dev/devcards/v2/8Sz5WZPGvCGIBGze3oskL.png?type=wide&r=toq" width="652" alt="sachin m's Dev Card"/></a>
 </p>
 
 ---
