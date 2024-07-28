@@ -28,22 +28,6 @@
 
 ---
 
-## Daily-dev Stats
-
-<p align="center">
-    <a href="https://app.daily.dev/sachin_mounesh"><img src="https://api.daily.dev/devcards/v2/8Sz5WZPGvCGIBGze3oskL.png?type=wide&r=toq" width="652" alt="sachin m's Dev Card"/></a>
-</p>
-
----
-
-## Let's Connect
-<p align="left">
-<!-- <a href="https://twitter.com/sachinsouhardh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachinsouhardh" height="30" width="40" /></a> -->
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sachin-souhardh-810833177/" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12681984" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sachin_yashasvasin/" height="30" width="40" />
-</p>  
-
 ## Skills
 <p align="center">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
@@ -76,3 +60,13 @@
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
 </p>
 
+
+---
+
+## Let's Connect
+<p align="left">
+<!-- <a href="https://twitter.com/sachinsouhardh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachinsouhardh" height="30" width="40" /></a> -->
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sachin-souhardh-810833177/" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12681984" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sachin_yashasvasin/" height="30" width="40" />
+</p>  
