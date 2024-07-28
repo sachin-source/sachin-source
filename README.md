@@ -9,14 +9,14 @@
     <img src="https://github-profile-trophy.vercel.app/?username=sachin-source&column=-1" alt="sachin-source" />
 </p>
 
------
+
 
 - 🌱 I’m currently learning **Java script, Python, Angular, React, Next.js, Node, Devops, AWS, and machine learning.**
 
 - 📫 How to reach me **sachinmgvt@gmail.com**
 
 
----
+
 
 ## GitHub Stats
 
@@ -26,7 +26,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-source&theme=dark&background=22272e&date_format=%5BY%20%5DM%20j&exclude_days=Sun" alt="Streak Stats" height="200"/>
 </p>
 
----
+<!-- --- -->
 
 ## Skills
 <p align="center">
@@ -61,7 +61,7 @@
 </p>
 
 
----
+<!-- --- -->
 
 ## Let's Connect
 <p align="left">
