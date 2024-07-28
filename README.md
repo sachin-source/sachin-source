@@ -64,5 +64,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sachin-source&show_icons=true&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-source&hide=html,css&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Top Languages" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-source&theme=dark&background=22272e&date_format=%5BY%20%5DM%20j" alt="Streak Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-source&theme=dark&background=22272e&date_format=%5BY%20%5DM%20j&exclude_days=Sun" alt="Streak Stats" height="150"/>
 </p>
