@@ -15,6 +15,17 @@
 
 - 📫 How to reach me **sachinmgvt@gmail.com**
 
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachin-source&show_icons=true&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-source&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-source&theme=dark&background=22272e&date_format=%5BY%20%5DM%20j&exclude_days=Sun" alt="Streak Stats" height="200"/>
+</p>
+
 ---
 
 ## Let's Connect
@@ -25,7 +36,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sachin_yashasvasin/" height="30" width="40" />
 </p>  
 
-## Languages and Tools
+## Skills
 <p align="center">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -57,12 +68,3 @@
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
 </p>
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachin-source&show_icons=true&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-source&hide=html,css&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Top Languages" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-source&theme=dark&background=22272e&date_format=%5BY%20%5DM%20j&exclude_days=Sun" alt="Streak Stats" height="150"/>
-</p>
